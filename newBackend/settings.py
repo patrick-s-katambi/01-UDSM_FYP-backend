@@ -73,6 +73,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "http://localhost:5000",
     "http://192.168.43.22:5000",
+    "https://young-refuge-55097.herokuapp.com"
 ]
 
 # CORS_ORIGIN_ALLOW_ALL = True
